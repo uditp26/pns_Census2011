@@ -1,0 +1,167 @@
+{
+    "targetFilePath": "/media/mohit/New Volume/IIITD/Semeseter/Subjects/DMG/Project/FinalDataset.xls",
+    "sourceFolder": "/media/mohit/New Volume/IIITD/Semeseter/Subjects/DMG/Project/Main Dataset/",
+    "all_excel_mappings": [
+      {
+        "excel_name": "T01",       
+        "cell_mappings": [
+          {
+            "source_cell_name": "F@/0",
+            "source_row_position": "@/0",
+            "destination_cell_name": "C@/1",
+            "destination_row_position": "@/1",
+            "source_search_string" : "District Total"
+          },
+          {
+            "source_cell_name": "G@/0",
+            "source_row_position": "@/0",
+            "destination_cell_name": "E@/1",
+            "destination_row_position": "@/1",
+            "source_search_string" : "District Total"
+          },
+          {
+            "source_cell_name": "H@/0",
+            "source_row_position": "@/0",
+            "destination_cell_name": "D@/1",
+            "destination_row_position": "@/1",
+            "source_search_string" : "District Total"
+          }
+        ]
+      },
+      {
+        "excel_name": "T20",
+        "cell_mappings": [
+          {
+            "source_cell_name": "J@/-2",
+            "source_row_position": "@/-2",
+            "destination_cell_name": "F@/1",
+            "destination_row_position": "@/1"
+          },
+          {
+            "source_cell_name": "J@/-1",
+            "source_row_position": "@/-1",
+            "destination_cell_name": "H@/1",
+            "destination_row_position": "@/1"
+          },
+          {
+            "source_cell_name": "J@/0",
+            "source_row_position": "@/0",
+            "destination_cell_name": "G@/1",
+            "destination_row_position": "@/1"
+          },
+          {
+            "source_cell_name": "K@/-2",
+            "source_row_position": "@/-2",
+            "destination_cell_name": "I@/1",
+            "destination_row_position": "@/1"
+          },
+          {
+            "source_cell_name": "K@/-1",
+            "source_row_position": "@/-1",
+            "destination_cell_name": "K@/1",
+            "destination_row_position": "@/1"
+          },
+          {
+            "source_cell_name": "K@/0",
+            "source_row_position": "@/0",
+            "destination_cell_name": "J@/1",
+            "destination_row_position": "@/1"
+          },
+          {
+            "source_cell_name": "L@/-2",
+            "source_row_position": "@/-2",
+            "destination_cell_name": "L@/1",
+            "destination_row_position": "@/1"
+          },
+          {
+            "source_cell_name": "L@/-1",
+            "source_row_position": "@/-1",
+            "destination_cell_name": "N@/1",
+            "destination_row_position": "@/1"
+          },
+          {
+            "source_cell_name": "L@/0",
+            "source_row_position": "@/0",
+            "destination_cell_name": "M@/1",
+            "destination_row_position": "@/1"
+          }
+        ]
+      },
+      {
+        "excel_name": "T39",
+        "cell_mappings": [
+          {
+            "source_cell_name": "D@/-7",
+            "source_row_position": "@/-7",
+            "destination_cell_name": "O@/1",
+            "destination_row_position": "@/1"
+          },
+          {
+            "source_cell_name": "E@/-7",
+            "source_row_position": "@/-7",
+            "destination_cell_name": "P@/1",
+            "destination_row_position": "@/1"
+          },
+          {
+            "source_cell_name": "F@/-7",
+            "source_row_position": "@/-7",
+            "destination_cell_name": "Q@/1",
+            "destination_row_position": "@/1"
+          },
+          {
+            "source_cell_name": "G@/-7",
+            "source_row_position": "@/-7",
+            "destination_cell_name": "R@/1",
+            "destination_row_position": "@/1"
+          },
+          {
+            "source_cell_name": "H@/-7",
+            "source_row_position": "@/-7",
+            "destination_cell_name": "S@/1",
+            "destination_row_position": "@/1"
+          },
+          {
+            "source_cell_name": "I@/-7",
+            "source_row_position": "@/-7",
+            "destination_cell_name": "T@/1",
+            "destination_row_position": "@/1"
+          },
+          {
+            "source_cell_name": "J@/-7",
+            "source_row_position": "@/-7",
+            "destination_cell_name": "U@/1",
+            "destination_row_position": "@/1"
+          },
+          {
+            "source_cell_name": "K@/-7",
+            "source_row_position": "@/-7",
+            "destination_cell_name": "V@/1",
+            "destination_row_position": "@/1"
+          }
+        ]
+      },
+      {
+        "excel_name": "T30",
+        "cell_mappings": [
+          {
+            "source_cell_name": "J@/-2",
+            "source_row_position": "@/-2",
+            "destination_cell_name": "W@/1",
+            "destination_row_position": "@/1"
+          },
+          {
+            "source_cell_name": "J@/-1",
+            "source_row_position": "@/-1",
+            "destination_cell_name": "X@/1",
+            "destination_row_position": "@/1"
+          },
+          {
+            "source_cell_name": "J@/0",
+            "source_row_position": "@/0",
+            "destination_cell_name": "Y@/1",
+            "destination_row_position": "@/1"
+          }
+        ]
+      }
+    ]
+  }
